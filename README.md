@@ -22,6 +22,10 @@ MySQL
 ## Website 
 ![My Image](Assets/Screen-Shot.png)
 
+Click [here](https://drive.google.com/file/d/1bkjvzFH0QVlc_HupD_aXuXyshxQJXuvz/view) to go to my Employee-Tracker applicaiton video. 
+
+
+
 
 ## Credits
 - Thank you to the UTA-Bootcamp team.
